@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dantevalleta
-- 👀 I’m interested in learning FrontEnd
-- 🌱 I’m currently learning QA Testing/Analisis, Angular, HTML, CSS, 
-- 💞️ I’m looking to collaborate on anything related to Web Dev
+- 👀 I’m interested in learning JS, C# and .NET
+- 🌱 I’m currently learning QA Testing/Analisis, Angular, HTML, CSS
+- 💞️ I’m looking to collaborate on anything related to Web DevOps
 - 📫 You can reach me @ https://www.linkedin.com/in/crortegas/
 
 <!---
